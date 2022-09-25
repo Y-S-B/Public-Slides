@@ -1,0 +1,5 @@
+{
+    "markdown.extension.completion.respectVscodeSearchExclude": true,
+    "markdown.extension.print.onFileSave": false,
+    "editor.tabSize": 4
+}
