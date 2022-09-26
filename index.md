@@ -6,13 +6,119 @@
 
 <p style="font-size: 40px;">
     上記のリンクで該当スライドに飛びます。<br>
-    スペース押下で進みます。
+    スペースキーで進みます。<br>
+    Fキーを押すと全画面表示になり、見やすいです。
 </p>
 
 ---
 
 Martin  
 Heidegger  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+ドイツの  
+実存哲学者  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+アーレントと  
+愛人関係にあった
+<!-- .element: class="r-fit-text" -->
+
+--
+
+実存の哲学とは  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">自分自身の存在を<br>問題にする哲学</span>
+</span>
+<!-- .element: class="r-fit-text" -->
+
+--
+
+"例えば  
+馬車を駆っている  
+二人の男がいたとする
+<!-- .element: class="r-fit-text" -->
+
+--
+
+一人は  
+手綱を  
+握ってはいるが  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+馬はいつも  
+馴染みの道を  
+走っていて  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+御者から  
+なんの制御も  
+受けていない
+<!-- .element: class="r-fit-text" -->
+
+--
+
+彼は多分  
+眠っているのだ
+<!-- .element: class="r-fit-text" -->
+
+--
+
+もう一人の男は  
+しっかり馬を制御して  
+馬車を走らせている
+<!-- .element: class="r-fit-text" -->
+
+--
+
+ある意味では  
+この二人とも  
+御者であり
+<!-- .element: class="r-fit-text" -->
+
+--
+
+別の意味では  
+二人目のみが  
+御者である
+<!-- .element: class="r-fit-text" -->
+
+--
+
+同様に
+<!-- .element: class="r-fit-text" -->
+
+--
+
+大衆とともに浮遊し  
+群衆の叫びや  
+動きの中に   
+埋没している人は  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+ある意味では  
+存在しているが  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+本当の意味では  
+実存していない
+<!-- .element: class="r-fit-text" -->
+
+--
+
+と言えるだろう"
 <!-- .element: class="r-fit-text" -->
 
 ---
@@ -34,26 +140,8 @@ Heidegger
 |1976年|死去|
 |||
 <!-- .element: class="r-fit-text" -->
+n: メスキルヒは保守的・宗教的な町。ハイデガーは司祭になるための教育を受けた
 
---
-
-1889年  
-ドイツ、メスキルヒに  
-誕生
-<!-- .element: class="r-fit-text" -->
-
---
-
-メスキルヒは  
-保守的・宗教的  
-な町
-<!-- .element: class="r-fit-text" -->
-
---
-
-大学では  
-神学→哲学
-<!-- .element: class="r-fit-text" -->
 ---
 
 思想
@@ -64,17 +152,19 @@ Heidegger
 存在とは  
 なにか?
 <!-- .element: class="r-fit-text" -->
+n: 「この問いこそがあらゆる問いの中で最も根源的な問いであり、もっとも深い問いであり、この問いをないがしろにすれば、あらゆる学問が意味をなさない」
 
 --
 
-たとえば  
-ウィトゲンシュタインは
+同時期の  
+論理実証主義者  
+たちは
 <!-- .element: class="r-fit-text" -->
 
 --
 
-*存在は*  
-*規定できない*
+*「存在」は*  
+*名詞化できない*
 <!-- .element: class="r-fit-text" -->
 n: 存在を辞書で引いてみても、「ある」との循環定義になっていることが多い。
 
@@ -97,7 +187,7 @@ Is <span class="fragment highlight-red">*is*</span> sth.
 
 のように  
 <span class="fragment highlight-red">存在の概念なしに  
-存在を規定できない</span>  
+存在を規定できない</span>
 から
 <!-- .element: class="r-fit-text" -->
 
@@ -110,9 +200,32 @@ Is <span class="fragment highlight-red">*is*</span> sth.
 
 --
 
-*いや、*  
-*行けるんじゃね?*
+彼によると  
+今までの哲学は全て  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">存在忘却の哲学</span>
+</span>  
+であった
 <!-- .element: class="r-fit-text" -->
 
 --
 
+存在忘却とは  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">存在と存在者の<br>区別がつかないこと</span>
+</span>
+<!-- .element: class="r-fit-text" -->
+
+--
+
+「存在者がある」  
+のであって  
+「存在がある」  
+のではない
+<!-- .element: class="r-fit-text" -->
+
+--
+
+時間性に  
+ついて
+<!-- .element: class="r-fit-text" -->
