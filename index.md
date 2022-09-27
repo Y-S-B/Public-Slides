@@ -16,7 +16,7 @@ Martin
 Heidegger  
 <!-- .element: class="r-fit-text" -->
 
---
+---
 
 ドイツの  
 実存哲学者  
@@ -28,7 +28,7 @@ Heidegger
 愛人関係にあった
 <!-- .element: class="r-fit-text" -->
 
---
+---
 
 実存の哲学とは  
 <span class="fragment fade-in">
@@ -126,7 +126,7 @@ Heidegger
 略歴
 <!-- .element: class="r-fit-text" -->
 
---
+---
 
 |||
 |:-:|:-:|
@@ -147,7 +147,7 @@ n: メスキルヒは保守的・宗教的な町。ハイデガーは司祭に�
 思想
 <!-- .element: class="r-fit-text" -->
 
---
+---
 
 存在とは  
 なにか?
@@ -187,7 +187,7 @@ Is <span class="fragment highlight-red">*is*</span> sth.
 
 のように  
 <span class="fragment highlight-red">存在の概念なしに  
-存在を規定できない</span>
+存在を規定できない</span>  
 から
 <!-- .element: class="r-fit-text" -->
 
@@ -226,6 +226,64 @@ Is <span class="fragment highlight-red">*is*</span> sth.
 
 --
 
-時間性に  
-ついて
+というのが  
+ハイデガーの  
+主張
 <!-- .element: class="r-fit-text" -->
+
+---
+
+時間性
+<!-- .element: class="r-fit-text" -->
+
+--
+
+我々が  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">「死へ臨む存在」</span>
+</span>  
+として行動  
+するときに
+<!-- .element: class="r-fit-text" -->
+
+--
+
+「現在」  
+が現れる
+<!-- .element: class="r-fit-text" -->
+
+--
+
+*メメント・モリ*
+<!-- .element: class="r-fit-text" -->
+
+--
+
+*死を忘ること*  
+*なかれ*
+<!-- .element: class="r-fit-text" -->
+
+--
+
+死の覚悟を  
+持つことが
+<!-- .element: class="r-fit-text" -->
+
+--
+
+人間の  
+本来の在り方
+<!-- .element: class="r-fit-text" -->
+
+--
+
+ニーチェと  
+正反対
+<!-- .element: class="r-fit-text" -->
+
+---
+
+#### 参考文献
+- 岩田靖夫(2003).『ヨーロッパ思想入門』.岩波ジュニア新書
+- 濱井修, 小寺聡.『倫理用語集』.山川出版社
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)

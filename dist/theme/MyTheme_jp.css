@@ -9,7 +9,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 :root {
   --r-background-color: #131313;
   --r-main-font: Shippori Mincho ExtraBold;
-  --r-main-font-size: 70px;
+  --r-main-font-size: 50px;
   --r-main-color: #dddddd;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
