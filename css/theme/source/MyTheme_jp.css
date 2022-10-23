@@ -8,12 +8,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 :root {
   --r-background-color: #131313;
-  --r-main-font: Cormorant Garamond, Shippori Mincho ExtraBold;
+  --r-main-font: Shippori Mincho ExtraBold;
   --r-main-font-size: 50px;
   --r-main-color: #dddddd;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Cormorant Garamond, Shippori Mincho ExtraBold;
+  --r-heading-font: Shippori Mincho ExtraBold;
   --r-heading-color: #dddddd;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
@@ -43,6 +43,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
   font-size: var(--r-main-font-size);
   font-weight: normal;
   color: var(--r-main-color);
+}
+
+.reveal ::-moz-selection {
+  color: var(--r-selection-color);
+  background: var(--r-selection-background-color);
+  text-shadow: none;
 }
 
 .reveal ::selection {
@@ -214,7 +220,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal code {
   font-family: var(--r-code-font);
   text-transform: none;
-  tab-size: 2;
+  -moz-tab-size: 2;
+    -o-tab-size: 2;
+       tab-size: 2;
 }
 
 .reveal pre code {

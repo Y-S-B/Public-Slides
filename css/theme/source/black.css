@@ -1,3 +1,8 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * By Hakim El Hattab, http://hakim.se
+ */
 @import url(./fonts/source-sans-pro/source-sans-pro.css);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222;
@@ -7,24 +12,24 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #131313;
-  --r-main-font: Cormorant Garamond, Shippori Mincho ExtraBold;
-  --r-main-font-size: 50px;
-  --r-main-color: #dddddd;
+  --r-background-color: #191919;
+  --r-main-font: Source Sans Pro, Helvetica, sans-serif;
+  --r-main-font-size: 42px;
+  --r-main-color: #fff;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Cormorant Garamond, Shippori Mincho ExtraBold;
-  --r-heading-color: #dddddd;
+  --r-heading-font: Source Sans Pro, Helvetica, sans-serif;
+  --r-heading-color: #fff;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
-  --r-heading-text-transform: none;
+  --r-heading-text-transform: uppercase;
   --r-heading-text-shadow: none;
-  --r-heading-font-weight: 900;
+  --r-heading-font-weight: 600;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 300px;
-  --r-heading2-size: 150px;
-  --r-heading3-size: 130px;
-  --r-heading4-size: 100px;
+  --r-heading1-size: 2.5em;
+  --r-heading2-size: 1.6em;
+  --r-heading3-size: 1.3em;
+  --r-heading4-size: 1em;
   --r-code-font: monospace;
   --r-link-color: #42affa;
   --r-link-color-dark: #068de9;
@@ -34,7 +39,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 
 .reveal-viewport {
-  background: #131313;
+  background: #191919;
   background-color: var(--r-background-color);
 }
 
@@ -43,6 +48,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
   font-size: var(--r-main-font-size);
   font-weight: normal;
   color: var(--r-main-color);
+}
+
+.reveal ::-moz-selection {
+  color: var(--r-selection-color);
+  background: var(--r-selection-background-color);
+  text-shadow: none;
 }
 
 .reveal ::selection {
@@ -214,7 +225,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal code {
   font-family: var(--r-code-font);
   text-transform: none;
-  tab-size: 2;
+  -moz-tab-size: 2;
+    -o-tab-size: 2;
+       tab-size: 2;
 }
 
 .reveal pre code {
