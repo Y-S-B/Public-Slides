@@ -376,8 +376,8 @@ Pという意見が
     誰も否定できない<br>
     真理を作ることは<br>
     不可能である
-    </span> 
-</span> 
+    </span>
+</span>
 <!-- .element: class="r-fit-text" -->
 
 --
