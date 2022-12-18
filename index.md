@@ -1,8 +1,9 @@
-### 公共 課題
+### 公共
 
-12. [ハイデガー](#1)
-13. [レヴィナス](#10)
-14. [](#)
+1. [ハイデガー](#1)
+2. [レヴィナス](#10)
+3. [ロールズ](#)
+4. [表現の自由](#20)
 
 <p style="font-size: 40px;">
     上記のリンクで該当スライドに飛びます。<br>
@@ -352,20 +353,20 @@ Lévinas
 --
 
 たとえば  
-Pという意見が  
+Pという命題が  
 存在したとして
 <!-- .element: class="r-fit-text" -->
 
 --
 
 それ全体を否定する  
-￢Pが存在し
+$\lnot P$が存在し
 <!-- .element: class="r-fit-text" -->
 
 --
 
 それをさらに否定する  
-￢￢Pが存在する
+$\lnot (\lnot P)$が存在する
 <!-- .element: class="r-fit-text" -->
 
 --
@@ -634,4 +635,159 @@ WWIIでの彼の体験が
 
 ---
 
-John
+表現の自由
+<!-- .element: class="r-fit-text" -->
+
+---
+
+'表現'?
+<!-- .element: class="r-fit-text" -->
+
+--
+
+日本国憲法には  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">
+        *'集会、結社及び<br>
+        言論、出版その他一切'*
+    </span> 
+</span>  
+とある
+<!-- .element: class="r-fit-text" -->
+
+---
+
+集会の自由
+<!-- .element: class="r-fit-text" -->
+
+--
+
+誰でも  
+自由な目的、方法、場所で  
+集会をして👌  
+という自由
+<!-- .element: class="r-fit-text" -->
+
+--
+
+ただし  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">
+        '明白かつ現在の危険'
+    </span> 
+</span>  
+に該当する場合は❌
+<!-- .element: class="r-fit-text" -->
+
+--
+
+〜不許可合憲の条件〜  
+<b>1. 害悪の誘発が明白</b>  
+<b>2. 害悪が重大で間近</b>  
+<b>3. 規制が必要不可欠</b>
+<!-- .element: class="r-fit-text" -->
+
+n: 「街宣車などで迷惑がかかる」などとして、ホテルが政治団体への貸し出し契約を一方的に破棄。色々あって団体は提訴し、東京高等裁判所はホテル側に1億2500万円の支払いを命じた。
+
+---
+
+結社の自由
+<!-- .element: class="r-fit-text" -->
+
+--
+
+誰でも団体を  
+<span class="fragment fade-in">
+    <span class="fragment highlight-red">
+        結成、加入  
+        脱退、解散
+    </span> 
+</span>  
+して👌という自由
+<!-- .element: class="r-fit-text" -->
+
+n: 大日本帝国憲法時代は、国務大臣の権限で結社を解散できたり、社会主義系の団体はそもそも結成できなかったりと、結社の自由が著しく制限されていた。
+
+--
+
+破壊活動防止法は  
+合憲か? 違憲か?
+<!-- .element: class="r-fit-text" -->
+
+n: 暴力的な破壊活動を行う団体に対して規制をするという法律。賛否両論。
+
+---
+
+言論の自由
+<!-- .element: class="r-fit-text" -->
+
+---
+
+声を使って  
+意見を表明して👌  
+という自由
+<!-- .element: class="r-fit-text" -->
+
+--
+
+表現行為の中でも  
+最も象徴的
+<!-- .element: class="r-fit-text" -->
+
+--
+
+それだけに  
+他人の権利や自由を  
+侵害しやすい
+<!-- .element: class="r-fit-text" -->
+
+--
+
+イギリスの  
+'Speakers' Corner'  
+では
+<!-- .element: class="r-fit-text" -->
+
+--
+
+法的問題を気にせず  
+好きなことを語れる  
+<!-- .element: class="r-fit-text" -->
+
+--
+
+ただし  
+王室批判と  
+国家転覆を除く
+<!-- .element: class="r-fit-text" -->
+
+---
+
+出版の自由
+<!-- .element: class="r-fit-text" -->
+
+--
+
+印刷媒体による  
+意見を表明して👌  
+という自由
+<!-- .element: class="r-fit-text" -->
+
+--
+
+歴史的に  
+制限されやすかった
+<!-- .element: class="r-fit-text" -->
+
+--
+
+'有害図書指定'は  
+合憲? 違憲?
+<!-- .element: class="r-fit-text" -->
+
+n: 青少年保護育成条例により、青少年の健全な育成を目的に、性や暴力に関して露骨な描写を含んだ書籍などを「有害図書」などに指定することで青少年への販売を禁止する。
+
+---
+
+おしまい
+<!-- .element: class="r-fit-text" -->
